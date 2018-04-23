@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="zad4_silnia.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="14" Y="24"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\Nr 2-uklad,liczby pierwsze\zad4\zadanie4\liczby_pierwsze_eratostenes.pas"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="4"/>
+        <CursorPos X="23" Y="40"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="zad4_silnia.lpr"/>
+        <Caret Line="11" Column="38"/>
+      </Position1>
+      <Position2>
+        <Filename Value="zad4_silnia.lpr"/>
+        <Caret Line="9" Column="39"/>
+      </Position2>
+      <Position3>
+        <Filename Value="zad4_silnia.lpr"/>
+        <Caret Line="15" Column="30"/>
+      </Position3>
+      <Position4>
+        <Filename Value="zad4_silnia.lpr"/>
+        <Caret Line="17" Column="38" TopLine="2"/>
+      </Position4>
+      <Position5>
+        <Filename Value="zad4_silnia.lpr"/>
+        <Caret Line="7" Column="26"/>
+      </Position5>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

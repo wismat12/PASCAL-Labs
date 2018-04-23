@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="z8na2.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos Y="53"/>
+        <FoldState Value=" TL30jk"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="8" HistoryIndex="7">
+      <Position1>
+        <Filename Value="z8na2.lpr"/>
+        <Caret Line="6" Column="28"/>
+      </Position1>
+      <Position2>
+        <Filename Value="z8na2.lpr"/>
+        <Caret Line="19" Column="27"/>
+      </Position2>
+      <Position3>
+        <Filename Value="z8na2.lpr"/>
+        <Caret Line="15" Column="16"/>
+      </Position3>
+      <Position4>
+        <Filename Value="z8na2.lpr"/>
+        <Caret Line="19" Column="34" TopLine="2"/>
+      </Position4>
+      <Position5>
+        <Filename Value="z8na2.lpr"/>
+        <Caret Line="26" Column="30" TopLine="2"/>
+      </Position5>
+      <Position6>
+        <Filename Value="z8na2.lpr"/>
+        <Caret Line="24" Column="13" TopLine="9"/>
+      </Position6>
+      <Position7>
+        <Filename Value="z8na2.lpr"/>
+        <Caret Line="39" Column="26" TopLine="2"/>
+      </Position7>
+      <Position8>
+        <Filename Value="z8na2.lpr"/>
+        <Caret Line="44" Column="7"/>
+      </Position8>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

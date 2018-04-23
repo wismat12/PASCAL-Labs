@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="Kolos_lista.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="4"/>
+        <CursorPos X="101" Y="26"/>
+        <UsageCount Value="46"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\..\..\..\Desktop\pulp\Nowy folder\Nowy folder\pascal\MAX_liczba\MAX.pas"/>
+        <UnitName Value="LICZBY"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="16" Y="9"/>
+        <UsageCount Value="23"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="4" HistoryIndex="3">
+      <Position1>
+        <Filename Value="Kolos_lista.lpr"/>
+        <Caret Line="91" Column="21" TopLine="70"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Kolos_lista.lpr"/>
+        <Caret Line="8" Column="20"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Kolos_lista.lpr"/>
+        <Caret Line="96" TopLine="75"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Kolos_lista.lpr"/>
+        <Caret Line="99" Column="19" TopLine="83"/>
+      </Position4>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

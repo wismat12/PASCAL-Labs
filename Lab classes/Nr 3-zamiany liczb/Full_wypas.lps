@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="Full_wypas.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="15"/>
+        <CursorPos X="40" Y="58"/>
+        <UsageCount Value="73"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="..\..\Documents\PROGRAMY\PASCAL\case\liczba_na_meisiac.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="35"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="6" HistoryIndex="5">
+      <Position1>
+        <Filename Value="Full_wypas.pas"/>
+        <Caret Line="26" Column="20"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Full_wypas.pas"/>
+        <Caret Line="24" Column="83" TopLine="11"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Full_wypas.pas"/>
+        <Caret Line="20" Column="14" TopLine="4"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Full_wypas.pas"/>
+        <Caret Line="26" Column="136" TopLine="4"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Full_wypas.pas"/>
+        <Caret Line="42" Column="27" TopLine="10"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Full_wypas.pas"/>
+        <Caret Line="58" Column="39"/>
+      </Position6>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

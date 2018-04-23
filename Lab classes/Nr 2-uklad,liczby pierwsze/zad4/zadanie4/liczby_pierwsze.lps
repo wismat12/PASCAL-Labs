@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="liczby_pierwsze.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="14"/>
+        <CursorPos X="35" Y="25"/>
+        <UsageCount Value="33"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="liczby_pierwsze_eratostenes.pas"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="17"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="3" HistoryIndex="2">
+      <Position1>
+        <Filename Value="liczby_pierwsze.lpr"/>
+        <Caret Line="32" Column="26"/>
+      </Position1>
+      <Position2>
+        <Filename Value="liczby_pierwsze.lpr"/>
+        <Caret Line="6" Column="18"/>
+      </Position2>
+      <Position3>
+        <Filename Value="liczby_pierwsze.lpr"/>
+        <Caret Line="44" Column="30" TopLine="21"/>
+      </Position3>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
